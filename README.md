@@ -9,7 +9,13 @@ Usage
 
 
 Design Decisions
+Nav bar: avoids the titles
 
+Menlo font: make it computery
+
+Picture border: matches the font
+
+Front page: attempt at Z-pattern and F-pattern
 
 Note: While I never used the "minima" theme, I couldn't manage to get rid of the places where it is called, because many unhelpful errors appeared after built the site saying that they could not find minima. So, I left the original gemfile in even though I don't use the minima theme.
 Challenge
