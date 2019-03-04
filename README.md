@@ -17,3 +17,4 @@ Challenge
 Credits
 https://jekyllrb.com/docs/step-by-step/
 https://www.w3schools.com/howto/howto_css_topnav_right.asp
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_img_border_css

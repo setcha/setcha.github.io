@@ -13,9 +13,17 @@ color: white;
 
 
 .rightAlign{
-  float: right
+  float: right;
 }
 
 .centerAlign{
-  float: center
+  float: center;
+}
+
+.bigImage{
+height: 100;
+width: 100;
+margin: 0;
+padding: 0;
+float: center;
 }
