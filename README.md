@@ -35,8 +35,11 @@ This was also the first time I have used Github Pages, but setting it up was fai
 
 
 Credits
+
 https://jekyllrb.com/docs/step-by-step/
+
 https://www.w3schools.com/howto/howto_css_topnav_right.asp
+
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_img_border_css
 
 All of my photos and artwork are original. (Seth Chatterton, 2019)
